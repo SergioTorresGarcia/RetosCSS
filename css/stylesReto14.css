@@ -16,9 +16,7 @@ table {
 table, td {
     border: 0.1em solid black;
 }
-td {
-    margin: 0;
-}
+
 #encabezado {
     background-color: beige;
 }
