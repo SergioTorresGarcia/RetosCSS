@@ -1,0 +1,24 @@
+
+table, tr {
+    border: 0.1em solid lightblue;
+    
+}
+th {
+    color:lightgreen;
+    background-color: darkgreen;
+}
+th, td {
+    padding: 0.1em;
+    margin: 0;
+    border: 0.2em solid lightblue;
+    border-collapse: collapse;
+    
+}
+
+.even {
+    background-color: rgba(68, 139, 68, 0.472);
+
+}
+.odd {
+    background-color: rgba(128, 230, 128, 0.628);
+}
