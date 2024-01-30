@@ -22,3 +22,12 @@ th, td {
 .odd {
     background-color: rgba(128, 230, 128, 0.628);
 }
+.dobleAncho {
+    padding-right: 4em;
+}
+.precio {
+    text-align: center;
+}
+.titulo {
+    padding-left: 4em;
+}
