@@ -1,0 +1,31 @@
+
+.titulo {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    width: 50em;
+}
+
+table, td {
+    border: 0.05em solid black;
+    text-align: center;
+}
+
+.verde {
+    background-color: greenyellow;
+}
+#azul {
+    background-color: aqua;
+    text-align: left;
+}
+.rojo {
+    color: red
+}
+#rosa {
+    background-color: violet;
+    text-align: end;
+    align-self: flex-end;
+    vertical-align:bottom
+}
