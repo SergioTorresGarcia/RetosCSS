@@ -1,0 +1,27 @@
+body {
+    width: 70 vw;
+    background-image: url("../img/tabla4.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: top;
+
+
+}
+
+table {
+    text-align: center;
+    margin: 14em auto;
+    width: 36em;
+}
+table, td {
+    border: 0.1em solid black;
+}
+td {
+    margin: 0;
+}
+#encabezado {
+    background-color: beige;
+}
+#celdas {
+    background-color: rgb(241, 241, 155);
+}
