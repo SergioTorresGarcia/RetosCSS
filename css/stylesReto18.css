@@ -1,0 +1,55 @@
+body {
+    background-repeat: repeat;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    max-height: 100vh;
+
+}
+
+.small{
+    background-color: lightblue;
+    background-size:auto;
+    background-position: bottom;
+    background-image: url(../img/f01.png);
+    background-repeat: repeat-x;
+    
+    border: 0.2em solid purple;
+    height: 6.5em;
+    width: 13em;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.nube {
+    margin-top: -1.5em;
+}
+.mario {
+    margin-top: -5em;
+}
+
+.big {
+    background-color: lightblue;
+    background-size:auto;
+    background-position: bottom;
+    background-image: url(../img/f01.png);
+    background-repeat: repeat-x;
+    background-repeat: repeat-x;
+    border: 0.3em solid rgb(206, 34, 34);
+    height: 19.8em;
+    width: 27.5em;
+    justify-content: flex-start;
+    margin: 1em;
+    overflow: hidden;
+}
+
+.nubes {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 8em;
+    margin-top: -2em;
+    z-index: 1;
+
+}
+.prueba {
+    padding: 1em 0 0 1em;
+}
